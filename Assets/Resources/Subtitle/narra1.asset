@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d92a8a536d8398b42ba7bce8b713ff86, type: 3}
+  m_Name: narra1
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: c35ffa37336c52a4d893a0233095f735, type: 3}
+  jsonFile: {fileID: 4900000, guid: 18829684668120a48a665f27eac2e339, type: 3}
